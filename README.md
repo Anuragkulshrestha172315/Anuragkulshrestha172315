@@ -1,4 +1,4 @@
-![Header](./i.png)
+![Header](./git p.jpeg)
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=sharadhkr&label=Profile%20Views&color=0e75b6&style=flat">
