@@ -6,9 +6,9 @@
 </p>
 
 
-Problem-driven engineering student building **AI systems, IoT devices, and scalable backend platforms**.
+Engineer focused on solving real-world problems using **Java, DSA, and modern full-stack technologies (MERN).**
 
-Passionate about solving **real-world problems using AI/ML, IoT, and distributed systems**.
+Passionate about writing efficient **algorithms and building scalable systems.**
 
 ---
 
@@ -25,7 +25,7 @@ Passionate about solving **real-world problems using AI/ML, IoT, and distributed
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nodejs,express,mongodb,redis,firebase,flask,git,postman,tensorflow,numpy" />
+<img src="https://skillicons.dev/icons?i=js,java,genAI,react,nodejs,express,mongodb,firebase,git,postman" />
 </p>
 
 ---
