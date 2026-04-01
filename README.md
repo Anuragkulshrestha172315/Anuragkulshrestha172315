@@ -25,7 +25,7 @@ Passionate about writing efficient **algorithms and building scalable systems.**
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,java,genAI,react,nodejs,express,mongodb,firebase,git,postman" />
+<img src="https://skillicons.dev/icons?i=js,java,react,nodejs,express,mongodb,firebase,git,postman" />
 </p>
 
 ---
