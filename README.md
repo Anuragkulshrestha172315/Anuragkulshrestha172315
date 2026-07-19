@@ -175,5 +175,5 @@ IoT-based **wireless thermal printing system using ESP32**.
 # ⏱ Coding Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharadhkr&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=AnuragKulshrestha&theme=tokyonight">
 </p>
